@@ -1,0 +1,31 @@
+.title {
+  font-weight: bold;
+  text-align: center;
+  font-size: 28px;
+}
+
+.card-deck {
+  margin-top: 80px;
+  margin-bottom: 80px;
+}
+
+.card-text {
+  text-align: center;
+}
+
+.btn-explore {
+  margin-top: 20px;
+  margin-bottom: 10px;
+  text-align: center;
+  align-items: center;
+  margin-left: 25% !important;
+}
+.custom-button {
+  background-color: #ffffff;
+  border: 2px solid #219653;
+  transition: border 0.3s, color 0.3s, background-color 0.3s;
+  color: #219653;
+  font-weight: bold;
+  padding: 0.5rem 1rem;
+  border-radius: 8px;
+}

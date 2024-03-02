@@ -1,0 +1,17 @@
+/* CustomScrollbar.css */
+/* Customize the main scrollbar */
+::-webkit-scrollbar {
+    width: 1px; /* Adjust the width as needed */
+  }
+  
+  /* Customize the scrollbar track */
+  ::-webkit-scrollbar-track {
+    background: #f1f1f1; /* Change the background color */
+  }
+  
+  /* Customize the scrollbar thumb */
+  ::-webkit-scrollbar-thumb {
+    background: #00bf63; /* Change the thumb color */
+    border-radius: 5px; /* Add some border-radius for a rounded look */
+  }
+  

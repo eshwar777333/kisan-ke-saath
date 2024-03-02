@@ -1,0 +1,138 @@
+.navbar {
+    background-color: #00bf63 !important;
+    width: auto;
+    color: white !important;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+}
+
+.nav-cal {
+    width: auto;
+    color: white !important;
+    font-size: 14px;
+}
+
+#username,
+#adminmenu {
+    color: white !important;
+    font-size: 14px;
+}
+
+.cart {
+    text-decoration: none !important;
+    margin-left: 0rem !important;
+    font-size: 14px !important;
+    color: white !important;
+}
+
+.fa-shopping-cart {
+    margin-right: 8px;
+    color: white;
+}
+
+.trans {
+    position: absolute;
+    margin-left: 60%;
+
+}
+
+.VIpgJd-ZVi9od-l4eHX-hSRGPd {
+    display: none !important;
+}
+
+.VIpgJd-ZVi9od-ORHb-OEVmcd skiptranslate {
+    display: none !important;
+}
+
+body .goog-te-menu-frame.skiptranslate {
+    display: none !important;
+}
+
+.goog-te-gadget {
+    color: #00bf63 !important;
+}
+
+/* Desktop */
+@media only screen and (min-width: 992px) {
+    .navbar {
+        height: 90px;
+    }
+
+    .cart {
+        float: right !important;
+        margin-left: 31rem !important;
+        color: white !important;
+        font-size: 14px !important;
+        font-size: 14px;
+    }
+
+    /* .cart-button {
+
+  px: 8;
+  py: 1;
+  mx: 2;
+  background-color: #219653;
+  border: 2px solid #219653;
+  color: white;
+  font-weight: bold;
+  border-radius: 8px;
+  transition: background-color 0.3s, color 0.3s;
+}
+
+.cart-button:hover {
+  background-color: white;
+  color: #219653;
+} */
+
+    .remove-space {
+        float: right !important;
+        margin-left: 35rem !important;
+        color: white !important;
+        font-size: 14px !important;
+    }
+
+    .custom-button {
+        background-color: #ffffff;
+        border: 2px solid #00bf63;
+        transition: border 0.3s, color 0.3s, background-color 0.3s;
+        color: #00bf63;
+        font-weight: bold;
+        padding: 0.5rem 1rem;
+        border-radius: 8px;
+        text-align: center;
+        display: flex;
+        align-items: center;
+        margin-right: 10px;
+        font-size: 14px;
+    }
+    
+    .custom-button:last-child {
+        margin-right: 0;
+    }
+    
+    .custom-button:hover {
+        background-color: rgb(0, 191, 99);
+        /* color: #ffffff; */
+        border: 2px solid #219653;
+    }
+    
+    .custom-button:focus,
+    .custom-button:active {
+        background-color: #ffffff;
+        border: 2px solid #00bf63; /* Set the border color to your desired value */
+    }
+    
+
+
+
+    .nav-cal {
+        margin-left: 10px;
+    }
+}
+
+/* Phone */
+@media only screen and (max-width:320px) {
+    .nav-cal {
+        font-size: 15px !important;
+    }
+}

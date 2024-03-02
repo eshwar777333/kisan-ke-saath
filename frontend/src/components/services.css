@@ -1,0 +1,33 @@
+.container1 .image {
+    height: 400px;
+    width: 100%; /* or a specific width value like 500px; */
+    display: block;
+    margin: 0 auto;
+}
+
+  
+  .image {
+    height: 400px;
+    width: 100%;
+    display: block;
+    margin: 0 auto;
+  }
+  .font-bold {
+    font-weight: 700;
+}
+.font-semibold {
+    font-weight: 600;
+}
+.text-lg {
+    font-size: 1.125rem;
+    line-height: 1.75rem;
+}
+.mt-3 {
+    margin-top: 0.75rem;
+}
+.m-auto {
+    margin: auto;
+}
+p {
+    font-family: "Sora", sans-serif;
+}
