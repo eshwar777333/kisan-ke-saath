@@ -11,12 +11,12 @@ Follow these steps to set up and run the project locally:
    ```bash
    https://github.com/eshwar777333/kisan-ke-saath.git
    
-# cd Kisan-Ke-Saath
+*cd Kisan-Ke-Saath
 
-# cd backend,
+*cd backend,
 npm install
 
-# cd frontend.
+*cd frontend.
 npm install
 
 Create a .env file in the server directory.
