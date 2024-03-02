@@ -13,17 +13,17 @@ Follow these steps to set up and run the project locally:
    
 # cd Kisan-Ke-Saath
 
-# cd backend,
+# cd backend
 `npm install`
 
-# cd frontend,
-npm install
+# cd frontend
+`npm install`
 
 Create a .env file in the server directory.
 Add necessary environment variables, such as database connection strings and API keys, to the .env file.
 
 both frontend and backend
-npm run dev
+`npm run dev`
 
 Visit http://localhost:3000 to view the Kisan Ke Saath platform.
 
