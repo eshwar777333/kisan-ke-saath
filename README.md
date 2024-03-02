@@ -14,7 +14,7 @@ Follow these steps to set up and run the project locally:
 # cd Kisan-Ke-Saath
 
 # cd backend,
-npm install
+`npm install`
 
 # cd frontend,
 npm install
